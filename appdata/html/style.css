@@ -1,0 +1,14 @@
+body {
+    padding: 8%;
+    font-family: verdana;
+    text-align: center;
+    color: #fff;
+    margin-top: 1%;
+    line-height: 30px;
+    background-color:#000;
+}
+.imgcenter {
+    margin: auto;
+    padding-top: 5%;
+    width: 320px;
+}
